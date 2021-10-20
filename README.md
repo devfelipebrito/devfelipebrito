@@ -1,6 +1,10 @@
-### I'm Felipe Brito!!
+### Sou Felipe Brito !!
 
-:computer: Programming student!
+👨‍🎓 Estudante de Engenharia de Software - Universidade Evangélica de Goiás.
+
+💻 Apaixonado por tecnologia, gosto de desafios
+
+: computador: Aluno de programação!
 
 :house_with_garden: I’m from Brazil.
 
