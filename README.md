@@ -1,6 +1,6 @@
 ### Sou Felipe Brito !!
 
-👨‍🎓 Estudante de Engenharia de Software - Universidade Evangélica de Goiás.
+👨‍🎓 Estudante de Ciência da computação- faculdade Estácio.
 
 💻 Apaixonado por tecnologia, gosto de desafios.
 
